@@ -26,4 +26,4 @@ or simply run `python main.py --help`, `python evaluate.py --help`
 # reference
 
 - implementation of [openai](https://github.com/openai/maddpg)
-- implementation of [DKuan](https://github.com/Git-123-Hub/maddpg-mpe-pytorch/blob/master/readme.md)
+- implementation of [Git-123-Hub](https://github.com/Git-123-Hub/maddpg-mpe-pytorch/blob/master/readme.md)

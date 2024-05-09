@@ -8,8 +8,8 @@ and [multiagent-particle-envs](https://github.com/openai/multiagent-particle-env
 training and evaluation is simple and straightforward, take `simple_spread` for example:
 
 ```shell
-python main.py simple_spread  # training
-python evaluate.py simple_spread  # evaluation
+python main.py simple_adversary  # training
+python evaluate.py simple_adversary  # evaluation
 ```
 
 more details about arguments can be found in `main.py`, `evaluate.py`

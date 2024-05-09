@@ -1,5 +1,4 @@
-# MADDPG using PyTorch and MPE
-
+# MADDPG using PyTorch
 implementation of [MADDPG](https://arxiv.org/pdf/1706.02275.pdf) using PyTorch
 and [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs)
 
